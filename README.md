@@ -347,23 +347,21 @@ The dashboard supports decision-making; actual improvements depend on operationa
 # 📸 Dashboard Preview
 
 ### Executive Overview
-![ETP Executive Overview](images/etp-executive-overview.png)
+![ETP Executive Overview]([images/etp-executive-overview.png](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP%20Project%20Overview.png
+)
 
 ### Operational Performance
-![ETP Operational Performance](images/etp-operational-performance.png)
+![ETP Operational Performance](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP%20Project.png
+)
 
 ### Water Quality & Compliance
-![ETP Water Quality and Compliance](images/etp-water-quality-compliance.png)
+![ETP Water Quality and Compliance](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP%20Project.png
+)
 
 ### Cost & Resource Efficiency
-![ETP Cost Analysis](images/etp-cost-analysis.png)
+![ETP Cost Analysis](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP.png)
 
-### Maintenance & Reliability
-![ETP Maintenance Analysis](images/etp-maintenance-analysis.png)
 
-*Replace these image paths with the screenshots of the corresponding pages included in your final report.*
-
----
 
 # ⭐ Project Outcome
 
