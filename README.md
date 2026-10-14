@@ -347,7 +347,7 @@ The dashboard supports decision-making; actual improvements depend on operationa
 # 📸 Dashboard Preview
 
 ### Executive Overview
-![ETP Executive Overview]([images/etp-executive-overview.png](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP%20Project%20Overview.png
+![ETP Executive Overview](https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard/blob/main/ETP%20Project%20Overview.png
 )
 
 ### Operational Performance
